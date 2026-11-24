@@ -1,8 +1,10 @@
+# upstream: https://github.com/ItsDanik/Hybrid_MiSTer
 [submodule "hybrid"]
 	path = hybrid
-	url = https://github.com/ItsDanik/Hybrid_MiSTer.git
-	branch = main
+	url = https://github.com/WindyCityJess/Hybrid_MiSTer.git
+	branch = mister-build
+# upstream: https://github.com/ItsDanik/eduke32
 [submodule "eduke32"]
 	path = eduke32
-	url = https://github.com/ItsDanik/eduke32.git
-	branch = mister
+	url = https://github.com/WindyCityJess/eduke32.git
+	branch = mister-build
